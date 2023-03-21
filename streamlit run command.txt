@@ -1,1 +1,1 @@
-streamlit run "D:\Sem-7\Major Project\Multiple Disease Prediction System\multiple disease pred.py"
+streamlit run "multiple disease pred.py"
